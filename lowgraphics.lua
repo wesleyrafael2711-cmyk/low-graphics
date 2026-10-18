@@ -73,4 +73,4 @@ game.DescendantAdded:Connect(function(obj)
     pcall(potatoOptimize, obj)
 end)
 
-print("¡Optimización Ultra Potato y Anti-Brillo Activados!")
+print("lowgraphics ON")
